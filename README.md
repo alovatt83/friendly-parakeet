@@ -13,7 +13,7 @@
 ## General info
 Third weekly assignment due on Sunday December 20, 2020 @ 11:59 PM.
 ## Screenshot
-![Homepage Screenshot](https://alovatt83.github.io/portfolio-alovatt/assets/images/screenshot.png)
+![Homepage Screenshot](https://alovatt83.github.io/password-generator/assets/images/screenshot.png)
 
 ## Technologies
 * HTML
