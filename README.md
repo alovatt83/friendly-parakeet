@@ -1,2 +1,1 @@
-# friendly-parakeet
-JavaScript Assignment
+# Password Generator Starter Code
