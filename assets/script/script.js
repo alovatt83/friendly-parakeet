@@ -38,7 +38,7 @@ var characterSettings2 = window.confirm ("Include lowercase letters?");
     if (characterSettings2) {passwordSelect += lowercase;} 
     console.log (passwordSelect);
 // Include Uppercase Letters Selection      
-var characterSettings3 = window.confirm("Include uppercase letters??");
+var characterSettings3 = window.confirm("Include uppercase letters?");
     console.log (characterSettings3);
 
     if (characterSettings3) {passwordSelect += uppercase;} 
